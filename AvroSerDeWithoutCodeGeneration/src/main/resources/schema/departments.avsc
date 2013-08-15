@@ -1,0 +1,9 @@
+{"namespace": "com.cloudwick.avro",
+ "type": "record",
+ "name": "Department",
+ "fields": [
+     {"name": "id", "type": "int"},
+     {"name": "name",  "type": "string"},
+     {"name": "location", "type": "string"}
+ ]
+}
